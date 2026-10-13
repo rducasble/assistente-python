@@ -2136,6 +2136,7 @@ dependencies = [
     { name = "langchain-experimental" },
     { name = "langchain-openai" },
     { name = "openai" },
+    { name = "tqdm" },
 ]
 
 [package.metadata]
@@ -2149,6 +2150,7 @@ requires-dist = [
     { name = "langchain-experimental", specifier = ">=0.4.2" },
     { name = "langchain-openai", specifier = ">=1.7.1" },
     { name = "openai", specifier = ">=3.29.0" },
+    { name = "tqdm", specifier = ">=4.70.1" },
 ]
 
 [[package]]

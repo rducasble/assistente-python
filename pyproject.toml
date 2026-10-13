@@ -17,6 +17,7 @@ dependencies = [
     "langchain-experimental>=0.4.2",
     "langchain-openai>=1.7.1",
     "openai>=3.29.0",
+    "tqdm>=4.70.1",
 ]
 
 [project.scripts]
